@@ -1,0 +1,240 @@
+manufacturer,model,release_year,device_category,cpu_tdp_w,gpu_tdp_w,gpu_type,ram_gb,storage_capacity_gb,storage_type,battery_capacity_wh,battery_life_hours,display_size_inches,weight_kg,repairability_score,price_usd,battery_replaceable,ram_upgradeable,storage_upgradeable,reported_age_years_avg,source_type
+Lenovo,ThinkPad T410 Base,2010,Business,35,0,Integrated,4,320,HDD,57,4,14.1,2.27,10,999,Yes,Yes,Yes,12,Estimated - community evidence
+Lenovo,ThinkPad T420 Base,2011,Business,35,0,Integrated,4,320,HDD,57,6,14,2.24,10,899,Yes,Yes,Yes,13,Reddit (verified)
+Lenovo,ThinkPad T430 Base,2012,Business,35,0,Integrated,4,320,HDD,57,7.5,14,2.17,9,879,Yes,Yes,Yes,12,Estimated - community evidence
+Lenovo,ThinkPad T440 Base,2013,Business,15,0,Integrated,4,500,HDD,48,9,14,1.68,8,949,Yes,Yes,Yes,11,Reddit (verified)
+Lenovo,ThinkPad T440s Base,2013,Business,15,0,Integrated,4,500,HDD,48,10,14,1.59,8,999,Yes,Yes,Yes,10,Estimated - community evidence
+Lenovo,ThinkPad T450 Base,2015,Business,15,0,Integrated,4,500,HDD,46,9.5,14,1.73,8,919,Yes,Yes,Yes,9,Estimated - community evidence
+Lenovo,ThinkPad T450s Base,2015,Business,15,0,Integrated,4,500,HDD,48,11,14,1.59,8,1019,Yes,Yes,Yes,9,Estimated - community evidence
+Lenovo,ThinkPad T460 Base,2016,Business,15,0,Integrated,4,500,HDD,46,10.5,14,1.73,8,909,Yes,Yes,Yes,8,Estimated - community evidence
+Lenovo,ThinkPad T460s Base,2016,Business,15,0,Integrated,8,256,SATA SSD,49,9.5,14,1.36,7,1059,Yes,Yes,Yes,8,Estimated - community evidence
+Lenovo,ThinkPad T470 Base,2017,Business,15,0,Integrated,4,500,HDD,48,12.5,14,1.65,9,979,Yes,Yes,Yes,7,Estimated - community evidence
+Lenovo,ThinkPad T470s Base,2017,Business,15,0,Integrated,8,256,PCIe NVMe SSD,49,10.5,14,1.32,7,1129,Yes,Yes,Yes,7,Estimated - community evidence
+Lenovo,ThinkPad T480 Base,2018,Business,15,0,Integrated,8,256,PCIe NVMe SSD,48,14,14,1.58,9,1049,Yes,Yes,Yes,8,Reddit (verified)
+Lenovo,ThinkPad T480s Base,2018,Business,15,0,Integrated,8,256,PCIe NVMe SSD,57,13.5,14,1.31,8,1199,Yes,Yes,Yes,7,Estimated - community evidence
+Lenovo,ThinkPad T490 Base,2019,Business,15,0,Integrated,8,256,PCIe NVMe SSD,50,11,14,1.46,8,999,Yes,No,Yes,5,Estimated - community evidence
+Lenovo,ThinkPad T14 Gen 1 (Intel),2020,Business,15,0,Integrated,8,256,PCIe NVMe SSD,50,10.5,14,1.46,8,1099,Yes,Yes,Yes,4,Estimated - community evidence
+Lenovo,ThinkPad T14 Gen 1 (AMD),2020,Business,15,0,Integrated,8,256,PCIe NVMe SSD,50,11.5,14,1.46,8,1049,Yes,Yes,Yes,5,Reddit (verified)
+Lenovo,ThinkPad X220 Base,2011,Ultraportable,35,0,Integrated,4,320,HDD,63,9,12.5,1.5,9,849,Yes,Yes,Yes,12,Reddit (verified)
+Lenovo,ThinkPad X230 Base,2012,Ultraportable,35,0,Integrated,4,320,HDD,63,9.9,12.5,1.5,9,1179,Yes,Yes,Yes,11,Estimated - community evidence
+Lenovo,ThinkPad X240 Base,2013,Ultraportable,15,0,Integrated,4,500,HDD,47,10,12.5,1.42,8,949,Yes,Yes,Yes,10,Estimated - community evidence
+Lenovo,ThinkPad X250 Base,2015,Ultraportable,15,0,Integrated,4,500,HDD,47,11,12.5,1.42,8,999,Yes,Yes,Yes,9,Estimated - community evidence
+Lenovo,ThinkPad X260 Base,2016,Ultraportable,15,0,Integrated,4,500,HDD,47,12,12.5,1.44,8,929,Yes,Yes,Yes,8,Estimated - community evidence
+Lenovo,ThinkPad X270 Base,2017,Ultraportable,15,0,Integrated,4,256,PCIe NVMe SSD,47,13,12.5,1.36,8,979,Yes,Yes,Yes,7,Estimated - community evidence
+Lenovo,ThinkPad X280 Base,2018,Ultraportable,15,0,Integrated,8,256,PCIe NVMe SSD,48,11,12.5,1.13,7,1099,Yes,No,Yes,6,Estimated - community evidence
+Lenovo,ThinkPad X390 Base,2019,Ultraportable,15,0,Integrated,8,256,PCIe NVMe SSD,48,12,13.3,1.22,7,1049,Yes,No,Yes,5,Estimated - community evidence
+Lenovo,ThinkPad X13 Gen 1,2020,Ultraportable,15,0,Integrated,8,256,PCIe NVMe SSD,48,12.5,13.3,1.28,7,1099,Yes,No,Yes,4,Estimated - community evidence
+Lenovo,ThinkPad X1 Carbon Gen 1,2012,Premium,17,0,Integrated,4,128,SATA SSD,45,6,14,1.36,5,1299,Yes,No,Yes,10,Estimated - community evidence
+Lenovo,ThinkPad X1 Carbon Gen 2,2014,Premium,15,0,Integrated,4,128,SATA SSD,45,7,14,1.28,5,1249,Yes,No,Yes,9,Estimated - community evidence
+Lenovo,ThinkPad X1 Carbon Gen 3,2015,Premium,15,0,Integrated,4,128,PCIe NVMe SSD,50,10,14,1.3,5,1249,Yes,No,Yes,9,Estimated - community evidence
+Lenovo,ThinkPad X1 Carbon Gen 4,2016,Premium,15,0,Integrated,8,128,PCIe NVMe SSD,52,11,14,1.18,6,1299,Yes,No,Yes,8,Estimated - community evidence
+Lenovo,ThinkPad X1 Carbon Gen 5,2017,Premium,15,0,Integrated,8,256,PCIe NVMe SSD,57,12,14,1.13,6,1349,Yes,No,Yes,7,Estimated - community evidence
+Lenovo,ThinkPad X1 Carbon Gen 6,2018,Premium,15,0,Integrated,8,256,PCIe NVMe SSD,57,15,14,1.13,6,1519,Yes,No,Yes,7,Reddit (verified)
+Lenovo,ThinkPad X1 Carbon Gen 7,2019,Premium,15,0,Integrated,8,256,PCIe NVMe SSD,51,13,14,1.09,6,1469,Yes,No,Yes,5,Estimated - community evidence
+Lenovo,ThinkPad X1 Carbon Gen 8,2020,Premium,15,0,Integrated,8,256,PCIe NVMe SSD,51,12.5,14,1.09,6,1519,Yes,No,Yes,4,Estimated - community evidence
+Lenovo,ThinkPad W520 Base,2011,Workstation,45,35,Dedicated,4,500,HDD,94,6,15.6,2.6,9,1499,Yes,Yes,Yes,12,Estimated - community evidence
+Lenovo,ThinkPad W530 Base,2012,Workstation,45,45,Dedicated,4,500,HDD,94,7,15.6,2.6,9,1549,Yes,Yes,Yes,11,Estimated - community evidence
+Lenovo,ThinkPad W540 Base,2013,Workstation,47,45,Dedicated,8,500,HDD,100,6.5,15.6,2.5,8,1499,Yes,Yes,Yes,10,Estimated - community evidence
+Lenovo,ThinkPad P50 Base,2015,Workstation,45,40,Dedicated,8,500,HDD,90,8.5,15.6,2.67,8,1399,Yes,Yes,Yes,9,Estimated - community evidence
+Lenovo,ThinkPad P51 Base,2017,Workstation,45,40,Dedicated,8,256,PCIe NVMe SSD,90,9,15.6,2.67,8,1449,Yes,Yes,Yes,7,Estimated - community evidence
+Lenovo,ThinkPad P52 Base,2018,Workstation,45,40,Dedicated,8,256,PCIe NVMe SSD,90,8,15.6,2.45,8,1499,Yes,Yes,Yes,6,Estimated - community evidence
+Lenovo,ThinkPad P53 Base,2019,Workstation,45,50,Dedicated,8,500,HDD,90,7.5,15.6,2.5,8,1549,Yes,Yes,Yes,5,Estimated - community evidence
+Lenovo,ThinkPad P15 Gen 1,2020,Workstation,45,50,Dedicated,16,512,PCIe NVMe SSD,94,8,15.6,2.74,8,1699,Yes,Yes,Yes,4,Estimated - community evidence
+Lenovo,ThinkPad L440 Base,2013,Business,37,0,Integrated,4,500,HDD,56,6,14,2.25,9,799,Yes,Yes,Yes,10,Estimated - community evidence
+Lenovo,ThinkPad L450 Base,2015,Business,15,0,Integrated,4,500,HDD,48,7.5,14,1.93,8,829,Yes,Yes,Yes,8,Estimated - community evidence
+Lenovo,ThinkPad L460 Base,2016,Business,15,0,Integrated,4,500,HDD,48,8,14,1.93,8,809,Yes,Yes,Yes,7,Estimated - community evidence
+Lenovo,ThinkPad L470 Base,2017,Business,15,0,Integrated,4,500,HDD,48,9,14,1.91,8,849,Yes,Yes,Yes,7,Estimated - community evidence
+Lenovo,ThinkPad L480 Base,2018,Business,15,0,Integrated,8,256,SATA SSD,45,11,14,1.68,8,899,Yes,Yes,Yes,6,Estimated - community evidence
+Lenovo,ThinkPad E480 Base,2018,Business,15,0,Integrated,8,256,PCIe NVMe SSD,45,8,14,1.75,7,699,Yes,Yes,Yes,5,Estimated - mixed community sources
+Lenovo,ThinkPad E490 Base,2019,Business,15,0,Integrated,8,256,PCIe NVMe SSD,45,8.5,14,1.75,7,729,Yes,Yes,Yes,5,Estimated - mixed community sources
+Lenovo,ThinkPad E14 Gen 1,2020,Business,15,0,Integrated,8,256,PCIe NVMe SSD,45,9,14,1.69,7,799,Yes,Yes,Yes,4,Estimated - mixed community sources
+Dell,Latitude E6420 Base,2011,Business,35,0,Integrated,4,320,HDD,60,5,14,2.07,9,949,Yes,Yes,Yes,13,Reddit (verified)
+Dell,Latitude E6430 Base,2012,Business,35,0,Integrated,4,320,HDD,60,6,14,2.1,9,929,Yes,Yes,Yes,12,Estimated - community evidence
+Dell,Latitude E6440 Base,2013,Business,37,0,Integrated,4,500,HDD,65,6.5,14,2.12,9,989,Yes,Yes,Yes,11,Estimated - community evidence
+Dell,Latitude E7240 Base,2013,Business,15,0,Integrated,4,128,SATA SSD,31,5,12.5,1.36,8,999,Yes,Yes,Yes,9,Estimated - community evidence
+Dell,Latitude E7250 Base,2015,Business,15,0,Integrated,4,128,SATA SSD,39,6,12.5,1.25,8,1049,Yes,Yes,Yes,8,Estimated - community evidence
+Dell,Latitude E7270 Base,2016,Business,15,0,Integrated,4,128,SATA SSD,37,7,12.5,1.26,8,1079,Yes,Yes,Yes,7,Estimated - community evidence
+Dell,Latitude 7280 Base,2017,Business,15,0,Integrated,4,128,SATA SSD,42,8,12.5,1.18,8,1029,Yes,Yes,Yes,7,Estimated - community evidence
+Dell,Latitude 7290 Base,2018,Business,15,0,Integrated,8,256,PCIe NVMe SSD,42,9,12.5,1.19,8,1099,Yes,Yes,Yes,6,Estimated - community evidence
+Dell,Latitude 7300 Base,2019,Business,15,0,Integrated,8,256,PCIe NVMe SSD,42,10,13.3,1.25,8,1149,Yes,Yes,Yes,5,Estimated - community evidence
+Dell,Latitude 7310 Base,2020,Business,15,0,Integrated,8,256,PCIe NVMe SSD,39,10,13.3,1.22,7,1199,Yes,No,Yes,4,Estimated - community evidence
+Dell,Latitude E7440 Base,2013,Business,15,0,Integrated,4,500,HDD,34,5.5,14,1.54,8,999,Yes,Yes,Yes,11,Reddit (verified)
+Dell,Latitude E7450 Base,2015,Business,15,0,Integrated,4,500,HDD,54,9,14,1.64,8,1009,Yes,Yes,Yes,9,Estimated - community evidence
+Dell,Latitude E7470 Base,2016,Business,15,0,Integrated,4,128,PCIe NVMe SSD,55,10,14,1.5,8,1079,Yes,Yes,Yes,8,Estimated - community evidence
+Dell,Latitude 7480 Base,2017,Business,15,0,Integrated,4,128,PCIe NVMe SSD,42,11.5,14,1.36,8,1029,Yes,Yes,Yes,7,Estimated - community evidence
+Dell,Latitude 7490 Base,2018,Business,15,0,Integrated,8,256,PCIe NVMe SSD,60,12,14,1.4,8,1149,Yes,Yes,Yes,6,Estimated - community evidence
+Dell,Latitude 7400 Base,2019,Business,15,0,Integrated,8,256,PCIe NVMe SSD,42,11,14,1.36,8,1199,Yes,Yes,Yes,5,Estimated - community evidence
+Dell,Latitude 7410 Base,2020,Business,15,0,Integrated,8,256,PCIe NVMe SSD,39,10.5,14,1.33,7,1249,Yes,No,Yes,4,Estimated - community evidence
+Dell,Latitude E5440 Base,2013,Business,15,0,Integrated,4,500,HDD,65,7,14,2,8,849,Yes,Yes,Yes,10,Estimated - community evidence
+Dell,Latitude E5450 Base,2015,Business,15,0,Integrated,4,500,HDD,51,7.5,14,1.81,8,899,Yes,Yes,Yes,8,Estimated - community evidence
+Dell,Latitude E5470 Base,2016,Business,15,0,Integrated,4,500,HDD,62,8,14,1.76,8,849,Yes,Yes,Yes,7,Estimated - community evidence
+Dell,Latitude 5480 Base,2017,Business,15,0,Integrated,4,500,HDD,51,9,14,1.6,8,899,Yes,Yes,Yes,7,Estimated - community evidence
+Dell,Latitude 5490 Base,2018,Business,15,0,Integrated,8,256,SATA SSD,51,10,14,1.6,8,949,Yes,Yes,Yes,6,Estimated - community evidence
+Dell,Latitude 5400 Base,2019,Business,15,0,Integrated,8,256,PCIe NVMe SSD,42,9,14,1.48,8,999,Yes,Yes,Yes,5,Estimated - community evidence
+Dell,Latitude 5410 Base,2020,Business,15,0,Integrated,8,256,PCIe NVMe SSD,42,10,14,1.48,8,1049,Yes,Yes,Yes,4,Estimated - community evidence
+Dell,Precision M4600 Base,2011,Workstation,35,30,Dedicated,4,500,HDD,60,4,15.6,2.79,9,1399,Yes,Yes,Yes,12,Estimated - community evidence
+Dell,Precision M4700 Base,2012,Workstation,35,33,Dedicated,4,500,HDD,65,4.5,15.6,2.79,9,1449,Yes,Yes,Yes,11,Estimated - community evidence
+Dell,Precision M4800 Base,2013,Workstation,47,45,Dedicated,8,500,Hybrid,65,5,15.6,2.88,9,1599,Yes,Yes,Yes,10,Estimated - community evidence
+Dell,Precision 7510 Base,2015,Workstation,45,45,Dedicated,8,500,HDD,72,6,15.6,2.79,8,1499,Yes,Yes,Yes,9,Estimated - community evidence
+Dell,Precision 7520 Base,2017,Workstation,45,40,Dedicated,8,500,HDD,72,6.5,15.6,2.79,8,1549,Yes,Yes,Yes,7,Estimated - community evidence
+Dell,Precision 7530 Base,2018,Workstation,45,40,Dedicated,8,500,HDD,64,6,15.6,2.6,8,1599,Yes,Yes,Yes,6,Estimated - community evidence
+Dell,Precision 7540 Base,2019,Workstation,45,50,Dedicated,8,500,HDD,64,6.5,15.6,2.53,8,1649,Yes,Yes,Yes,5,Estimated - community evidence
+Dell,Precision 7550 Base,2020,Workstation,45,50,Dedicated,8,256,PCIe NVMe SSD,68,7,15.6,2.45,8,1699,Yes,Yes,Yes,4,Estimated - community evidence
+Dell,XPS 13 (9343) Base,2015,Premium,15,0,Integrated,4,128,SATA SSD,52,10,13.3,1.18,7,799,Yes,No,Yes,9,Estimated - community evidence
+Dell,XPS 13 (9350) Base,2015,Premium,15,0,Integrated,4,128,PCIe NVMe SSD,56,11,13.3,1.2,7,799,Yes,No,Yes,8,Estimated - community evidence
+Dell,XPS 13 (9360) Base,2016,Premium,15,0,Integrated,4,128,SATA SSD,60,13,13.3,1.2,7,799,Yes,No,Yes,8,Estimated - community evidence
+Dell,XPS 13 (9370) Base,2018,Premium,15,0,Integrated,4,128,PCIe NVMe SSD,52,10,13.3,1.21,6,999,No,No,Yes,6,Estimated - community evidence
+Dell,XPS 13 (9380) Base,2019,Premium,15,0,Integrated,8,256,PCIe NVMe SSD,52,11,13.3,1.23,6,1049,Yes,No,Yes,5,Estimated - community evidence
+Dell,XPS 13 (7390) Base,2019,Premium,15,0,Integrated,8,256,PCIe NVMe SSD,52,11.5,13.3,1.23,6,1099,Yes,No,Yes,5,Estimated - community evidence
+Dell,XPS 13 (9300) Base,2020,Premium,15,0,Integrated,8,256,PCIe NVMe SSD,52,12,13.4,1.2,6,1199,Yes,No,Yes,4,Estimated - community evidence
+Dell,XPS 15 (L521X) Base,2012,Premium,35,35,Dedicated,4,500,HDD,65,5,15.6,2.6,7,1299,Yes,Yes,Yes,10,Estimated - community evidence
+Dell,XPS 15 (9530) Base,2013,Premium,47,50,Dedicated,8,500,HDD,61,6,15.6,2.01,7,1199,Yes,Yes,Yes,9,Estimated - community evidence
+Dell,XPS 15 (9550) Base,2015,Premium,45,60,Dedicated,8,500,Hybrid,56,6,15.6,1.78,7,999,Yes,Yes,Yes,8,Estimated - community evidence
+Dell,XPS 15 (9560) Base,2017,Premium,45,40,Dedicated,8,1000,HDD,56,6.5,15.6,1.8,7,1049,Yes,Yes,Yes,7,Estimated - community evidence
+Dell,XPS 15 (9570) Base,2018,Premium,45,0,Integrated,8,1000,Hybrid,56,7,15.6,1.8,7,999,Yes,Yes,Yes,6,Estimated - community evidence
+Dell,XPS 15 (7590) Base,2019,Premium,45,0,Integrated,8,256,PCIe NVMe SSD,56,7.5,15.6,1.8,7,1099,Yes,Yes,Yes,5,Estimated - community evidence
+Dell,XPS 15 (9500) Base,2020,Premium,45,0,Integrated,8,256,PCIe NVMe SSD,56,8,15.6,1.83,7,1299,Yes,Yes,Yes,4,Estimated - community evidence
+Apple,MacBook Pro 15-Inch (Early 2011),2011,Premium,45,25,Dedicated,4,500,HDD,77.5,6,15.4,2.54,6,1799,Yes,Yes,Yes,11,Estimated - mixed community sources
+Apple,MacBook Pro 15-Inch (Mid 2012),2012,Premium,45,35,Dedicated,4,500,HDD,77.5,6.5,15.4,2.56,6,1799,Yes,Yes,Yes,13,MacRumors (verified)
+Apple,MacBook Pro 15-Inch Retina (Late 2013),2013,Premium,47,0,Integrated,8,256,PCIe NVMe SSD,95,8,15.4,2.02,2,1999,No,No,Yes,10,Estimated - community evidence
+Apple,MacBook Pro 15-Inch Retina (Mid 2014),2014,Premium,47,0,Integrated,16,256,PCIe NVMe SSD,95,8.5,15.4,2.02,2,1999,No,No,Yes,10,Estimated - community evidence
+Apple,MacBook Pro 15-Inch Retina (Mid 2015),2015,Premium,47,0,Integrated,16,256,PCIe NVMe SSD,99.5,9,15.4,2.04,1,1999,No,No,Yes,10,MacRumors (verified)
+Apple,MacBook Pro 15-Inch (Late 2016),2016,Premium,45,35,Dedicated,16,256,PCIe NVMe SSD,76,9.5,15.4,1.83,1,2399,No,No,No,6,Estimated - mixed community sources
+Apple,MacBook Pro 15-Inch (Mid 2017),2017,Premium,45,35,Dedicated,16,256,PCIe NVMe SSD,76,10,15.4,1.83,1,2399,No,No,No,6,Estimated - mixed community sources
+Apple,MacBook Pro 15-Inch (Mid 2018),2018,Premium,45,35,Dedicated,16,256,PCIe NVMe SSD,83.6,10,15.4,1.83,1,2399,No,No,No,6,Estimated - mixed community sources
+Apple,MacBook Pro 15-Inch (Mid 2019),2019,Premium,45,35,Dedicated,16,256,PCIe NVMe SSD,83.6,10.5,15.4,1.83,1,2399,No,No,No,5,Estimated - mixed community sources
+Apple,MacBook Pro 16-Inch (Late 2019),2019,Premium,45,50,Dedicated,16,512,PCIe NVMe SSD,100,11,16,2,1,2399,No,No,No,5,Estimated - community evidence
+Apple,MacBook Pro 13-Inch (Early 2011),2011,Premium,35,0,Integrated,4,320,HDD,63.5,6.5,13.3,2.04,6,1199,Yes,Yes,Yes,11,Estimated - community evidence
+Apple,MacBook Pro 13-Inch (Mid 2012),2012,Premium,35,0,Integrated,4,500,HDD,63.5,7,13.3,2.06,6,1199,Yes,Yes,Yes,13,MacRumors (verified)
+Apple,MacBook Pro 13-Inch Retina (Late 2013),2013,Premium,28,0,Integrated,4,128,PCIe NVMe SSD,71.8,9,13.3,1.57,2,1299,No,No,Yes,10,Estimated - community evidence
+Apple,MacBook Pro 13-Inch Retina (Mid 2014),2014,Premium,28,0,Integrated,8,128,PCIe NVMe SSD,71.8,9.5,13.3,1.57,2,1299,No,No,Yes,10,Estimated - community evidence
+Apple,MacBook Pro 13-Inch Retina (Early 2015),2015,Premium,28,0,Integrated,8,128,PCIe NVMe SSD,74.9,10,13.3,1.58,1,1299,No,No,Yes,9,Estimated - community evidence
+Apple,MacBook Pro 13-Inch (Late 2016),2016,Premium,15,0,Integrated,8,256,PCIe NVMe SSD,54.5,10.5,13.3,1.37,1,1499,No,No,No,6,Estimated - mixed community sources
+Apple,MacBook Pro 13-Inch (Mid 2017),2017,Premium,15,0,Integrated,8,128,PCIe NVMe SSD,54.5,11,13.3,1.37,1,1299,No,No,No,6,Estimated - mixed community sources
+Apple,MacBook Pro 13-Inch (Mid 2018),2018,Premium,28,0,Integrated,8,256,PCIe NVMe SSD,58,11.5,13.3,1.37,1,1799,No,No,No,6,Estimated - mixed community sources
+Apple,MacBook Pro 13-Inch (Mid 2019),2019,Premium,15,0,Integrated,8,128,PCIe NVMe SSD,58.2,11.5,13.3,1.37,1,1299,No,No,No,5,Estimated - mixed community sources
+Apple,MacBook Pro 13-Inch M1 (2020),2020,Premium,15,0,Integrated,8,256,PCIe NVMe SSD,58.2,17,13.3,1.4,3,1299,No,No,No,6,MacRumors (verified)
+Apple,MacBook Air 11-Inch (Mid 2011),2011,Ultraportable,17,0,Integrated,2,64,SATA SSD,35,5,11.6,1.08,4,999,No,No,Yes,9,Estimated - community evidence
+Apple,MacBook Air 11-Inch (Mid 2012),2012,Ultraportable,17,0,Integrated,4,64,SATA SSD,35,5.5,11.6,1.08,4,999,No,No,Yes,10,Estimated - community evidence
+Apple,MacBook Air 11-Inch (Mid 2013),2013,Ultraportable,15,0,Integrated,4,128,PCIe NVMe SSD,38,9,11.6,1.08,4,999,No,No,Yes,10,Estimated - community evidence
+Apple,MacBook Air 11-Inch (Early 2014),2014,Ultraportable,15,0,Integrated,4,128,PCIe NVMe SSD,38,9.5,11.6,1.08,4,899,No,No,Yes,9,Estimated - community evidence
+Apple,MacBook Air 11-Inch (Early 2015),2015,Ultraportable,15,0,Integrated,4,128,PCIe NVMe SSD,38,10,11.6,1.08,4,899,No,No,Yes,9,Estimated - community evidence
+Apple,MacBook Air 13-Inch (Mid 2011),2011,Ultraportable,17,0,Integrated,4,128,SATA SSD,50,7,13.3,1.35,4,1299,No,No,Yes,10,Estimated - community evidence
+Apple,MacBook Air 13-Inch (Mid 2012),2012,Ultraportable,17,0,Integrated,4,128,SATA SSD,50,7.5,13.3,1.35,4,1199,No,No,Yes,11,Estimated - community evidence
+Apple,MacBook Air 13-Inch (Mid 2013),2013,Ultraportable,15,0,Integrated,4,128,PCIe NVMe SSD,54,12,13.3,1.35,4,1099,No,No,Yes,10,Estimated - community evidence
+Apple,MacBook Air 13-Inch (Early 2014),2014,Ultraportable,15,0,Integrated,4,128,PCIe NVMe SSD,54,12.5,13.3,1.35,4,999,No,No,Yes,10,Estimated - community evidence
+Apple,MacBook Air 13-Inch (Early 2015),2015,Ultraportable,15,0,Integrated,4,128,PCIe NVMe SSD,54,12,13.3,1.35,4,999,Yes,No,Yes,9,Estimated - community evidence
+Apple,MacBook Air 13-Inch (2017),2017,Ultraportable,15,0,Integrated,8,128,PCIe NVMe SSD,54,12,13.3,1.35,4,999,Yes,No,Yes,7,Estimated - community evidence
+Apple,MacBook Air 13-Inch (2018),2018,Ultraportable,7,0,Integrated,8,128,PCIe NVMe SSD,50.3,12,13.3,1.25,3,1199,No,No,No,6,Estimated - mixed community sources
+Apple,MacBook Air 13-Inch (2019),2019,Ultraportable,7,0,Integrated,8,128,PCIe NVMe SSD,49.9,12.5,13.3,1.25,3,1099,No,No,No,5,Estimated - mixed community sources
+Apple,MacBook Air 13-Inch M1 (2020),2020,Ultraportable,10,0,Integrated,8,256,PCIe NVMe SSD,49.9,15,13.3,1.29,3,999,No,No,No,6,MacRumors (verified)
+Apple,MacBook 12-Inch (Early 2015),2015,Ultraportable,4.5,0,Integrated,8,256,PCIe NVMe SSD,39.7,9,12,0.92,1,1299,No,No,No,6,Estimated - mixed community sources
+Apple,MacBook 12-Inch (Early 2016),2016,Ultraportable,4.5,0,Integrated,8,256,PCIe NVMe SSD,41.4,10,12,0.92,1,1299,No,No,No,6,Estimated - mixed community sources
+Apple,MacBook 12-Inch (Mid 2017),2017,Ultraportable,4.5,0,Integrated,8,256,PCIe NVMe SSD,41.4,10,12,0.92,1,1299,No,No,No,5,Estimated - mixed community sources
+HP,EliteBook 840 G1 Base,2013,Business,15,0,Integrated,4,500,HDD,50,10,14,1.58,9,950,Yes,Yes,Yes,11,Reddit (verified)
+HP,EliteBook 840 G2 Base,2015,Business,15,0,Integrated,4,500,HDD,50,10.5,14,1.55,9,960,Yes,Yes,Yes,9,Estimated - community evidence
+HP,EliteBook 840 G3 Base,2016,Business,15,0,Integrated,4,500,HDD,46,10,14,1.48,9,949,Yes,Yes,Yes,8,Estimated - community evidence
+HP,EliteBook 840 G4 Base,2017,Business,15,0,Integrated,4,500,HDD,51,12,14,1.48,9,1049,Yes,Yes,Yes,7,Estimated - community evidence
+HP,EliteBook 840 G5 Base,2018,Business,15,0,Integrated,8,256,PCIe NVMe SSD,50,14,14,1.48,8,1199,Yes,Yes,Yes,6,Estimated - community evidence
+HP,EliteBook 840 G6 Base,2019,Business,15,0,Integrated,8,256,PCIe NVMe SSD,50,14.5,14,1.48,8,1249,Yes,Yes,Yes,5,Estimated - community evidence
+HP,EliteBook 840 G7 Base,2020,Business,15,0,Integrated,8,256,PCIe NVMe SSD,53,15,14,1.33,8,1299,Yes,Yes,Yes,4,Estimated - community evidence
+HP,EliteBook 850 G1 Base,2013,Business,15,0,Integrated,4,500,HDD,50,9,15.6,1.88,9,999,Yes,Yes,Yes,10,Estimated - community evidence
+HP,EliteBook 850 G2 Base,2015,Business,15,0,Integrated,4,500,HDD,50,9.5,15.6,1.83,9,1049,Yes,Yes,Yes,8,Estimated - community evidence
+HP,EliteBook 850 G3 Base,2016,Business,15,0,Integrated,4,500,HDD,46,9,15.6,1.83,9,1049,Yes,Yes,Yes,7,Estimated - community evidence
+HP,EliteBook 850 G4 Base,2017,Business,15,0,Integrated,4,256,PCIe NVMe SSD,51,10.5,15.6,1.83,9,1099,Yes,Yes,Yes,7,Estimated - community evidence
+HP,EliteBook 850 G5 Base,2018,Business,15,0,Integrated,8,256,PCIe NVMe SSD,56,11.5,15.6,1.78,8,1199,Yes,Yes,Yes,6,Estimated - community evidence
+HP,EliteBook 850 G6 Base,2019,Business,15,0,Integrated,8,256,PCIe NVMe SSD,56,12,15.6,1.78,8,1249,Yes,Yes,Yes,5,Estimated - community evidence
+HP,EliteBook 850 G7 Base,2020,Business,15,0,Integrated,8,256,PCIe NVMe SSD,56,12.5,15.6,1.67,8,1299,Yes,Yes,Yes,4,Estimated - community evidence
+HP,EliteBook 1040 G1 Base,2014,Business,15,0,Integrated,4,128,SATA SSD,42,8,14,1.49,7,1199,Yes,No,Yes,9,Estimated - community evidence
+HP,EliteBook 1040 G2 Base,2015,Business,15,0,Integrated,4,128,SATA SSD,42,8.5,14,1.51,7,1249,Yes,No,Yes,8,Estimated - community evidence
+HP,EliteBook 1040 G3 Base,2016,Business,15,0,Integrated,8,128,SATA SSD,45,9,14,1.43,7,1299,Yes,No,Yes,7,Estimated - community evidence
+HP,EliteBook 1040 G4 Base,2017,Business,15,0,Integrated,8,256,PCIe NVMe SSD,67,11,14,1.36,8,1399,Yes,No,Yes,7,Estimated - community evidence
+HP,EliteBook 1040 G5 Base,2018,Business,15,0,Integrated,8,256,PCIe NVMe SSD,56,12,14,1.35,7,1449,Yes,No,Yes,6,Estimated - community evidence
+HP,EliteBook 1040 G6 Base,2019,Business,15,0,Integrated,8,256,PCIe NVMe SSD,56,13,14,1.35,7,1499,Yes,No,Yes,5,Estimated - community evidence
+HP,EliteBook 1040 G7 Base,2020,Business,15,0,Integrated,8,256,PCIe NVMe SSD,54,13.5,14,1.32,7,1549,Yes,No,Yes,4,Estimated - community evidence
+HP,ZBook 15 G1 Base,2013,Workstation,47,35,Dedicated,8,500,HDD,83,6,15.6,2.82,8,1499,Yes,Yes,Yes,10,Estimated - community evidence
+HP,ZBook 15 G2 Base,2014,Workstation,47,45,Dedicated,8,500,HDD,83,6.5,15.6,2.82,8,1549,Yes,Yes,Yes,9,Estimated - community evidence
+HP,ZBook 15 G3 Base,2016,Workstation,45,40,Dedicated,8,500,HDD,90,7,15.6,2.59,8,1599,Yes,Yes,Yes,8,Estimated - community evidence
+HP,ZBook 15 G4 Base,2017,Workstation,45,40,Dedicated,8,256,PCIe NVMe SSD,90,7.5,15.6,2.59,8,1649,Yes,Yes,Yes,7,Estimated - community evidence
+HP,ZBook 15 G5 Base,2018,Workstation,45,40,Dedicated,8,256,PCIe NVMe SSD,90,8,15.6,2.6,8,1699,Yes,Yes,Yes,6,Estimated - community evidence
+HP,ZBook 15 G6 Base,2019,Workstation,45,50,Dedicated,8,256,PCIe NVMe SSD,90,8.5,15.6,2.6,8,1749,Yes,Yes,Yes,5,Estimated - community evidence
+HP,ProBook 640 G1 Base,2013,Business,37,0,Integrated,4,500,HDD,55,6.5,14,2.06,9,799,Yes,Yes,Yes,10,Estimated - community evidence
+HP,ProBook 640 G2 Base,2016,Business,15,0,Integrated,4,500,HDD,46,8,14,1.95,9,849,Yes,Yes,Yes,7,Estimated - community evidence
+HP,ProBook 640 G3 Base,2017,Business,15,0,Integrated,8,256,PCIe NVMe SSD,46,8,14,1.95,8,899,Yes,Yes,Yes,6,Estimated - community evidence
+HP,ProBook 640 G4 Base,2018,Business,15,0,Integrated,8,256,PCIe NVMe SSD,48,9.5,14,1.73,8,929,Yes,Yes,Yes,6,Estimated - community evidence
+HP,ProBook 640 G5 Base,2019,Business,15,0,Integrated,8,256,PCIe NVMe SSD,50,10,14,1.73,8,979,Yes,Yes,Yes,5,Estimated - community evidence
+Microsoft,Surface Pro 1,2013,Convertible,17,0,Integrated,4,64,SATA SSD,42,4.5,10.6,0.91,1,899,No,No,No,6,Estimated - mixed community sources
+Microsoft,Surface Pro 2,2013,Convertible,15,0,Integrated,4,64,SATA SSD,42,6,10.6,0.91,1,899,No,No,No,6,Estimated - mixed community sources
+Microsoft,Surface Pro 3,2014,Convertible,11,0,Integrated,4,64,SATA SSD,42,7.5,12,0.8,1,799,No,No,No,6,Estimated - mixed community sources
+Microsoft,Surface Pro 4,2015,Convertible,4.5,0,Integrated,4,128,PCIe NVMe SSD,38,8,12.3,0.77,1,899,No,No,No,5,Estimated - mixed community sources
+Microsoft,Surface Pro 5 (2017),2017,Convertible,4.5,0,Integrated,4,128,PCIe NVMe SSD,45,9.5,12.3,0.77,1,799,No,No,No,6,Estimated - community evidence
+Microsoft,Surface Pro 6,2018,Convertible,15,0,Integrated,8,128,PCIe NVMe SSD,45,10.5,12.3,0.77,1,899,No,No,No,5,Estimated - community evidence
+Microsoft,Surface Pro 7,2019,Convertible,15,0,Integrated,4,128,PCIe NVMe SSD,43,10,12.3,0.77,1,749,No,No,No,5,Estimated - community evidence
+Microsoft,Surface Book 1,2015,Convertible,15,0,Integrated,8,128,PCIe NVMe SSD,69,11,13.5,1.52,1,1499,No,No,No,7,Estimated - mixed community sources
+Microsoft,Surface Book 2 13-Inch,2017,Convertible,15,0,Integrated,8,256,PCIe NVMe SSD,70,13,13.5,1.53,1,1499,No,No,No,6,Estimated - community evidence
+Microsoft,Surface Book 3 13-Inch,2020,Convertible,15,0,Integrated,8,256,PCIe NVMe SSD,69,13.5,13.5,1.53,1,1599,No,No,No,4,Estimated - community evidence
+Microsoft,Surface Laptop 1,2017,Premium,15,0,Integrated,4,128,PCIe NVMe SSD,45,11,13.5,1.25,0,999,No,No,No,6,Estimated - mixed community sources
+Microsoft,Surface Laptop 2,2018,Premium,15,0,Integrated,8,128,PCIe NVMe SSD,45,12.5,13.5,1.25,0,999,No,No,No,5,Estimated - community evidence
+Microsoft,Surface Laptop 3 13-Inch,2019,Premium,15,0,Integrated,8,128,PCIe NVMe SSD,45,11.5,13.5,1.29,3,999,No,No,Yes,5,Estimated - community evidence
+Microsoft,Surface Go 1,2018,Convertible,6,0,Integrated,4,64,eMMC,27,5.5,10,0.52,1,399,No,No,No,5,Estimated - limited community evidence
+Microsoft,Surface Go 2,2020,Convertible,6,0,Integrated,4,64,eMMC,27,6.5,10.5,0.54,1,399,No,No,No,4,Estimated - limited community evidence
+ASUS,ZenBook UX330UA Base,2016,Ultraportable,15,0,Integrated,8,256,PCIe NVMe SSD,57,12,13.3,1.2,6,749,Yes,No,Yes,6,Estimated - limited community evidence
+ASUS,AsusPro B9440UA Base,2018,Business,15,0,Integrated,8,512,SATA SSD,48,9,14,1.05,7,1099,Yes,No,Yes,6,Estimated - community evidence
+ASUS,ROG Chimera G703GXR,2019,Gaming,45,150,Dedicated,32,1024,SATA SSD,96,2.5,17.3,4.7,6,3499,Yes,Yes,Yes,5,Estimated - mixed community sources
+ASUS,VivoBook D509DA Base,2020,Consumer,15,0,Integrated,8,512,SATA SSD,32,4.5,15.6,1.8,5,549,Yes,Yes,Yes,4,Estimated - limited community evidence
+Acer,Aspire E15 E5-575G,2016,Consumer,15,25,Dedicated,8,256,SATA SSD,62,8,15.6,2.23,8,549,Yes,Yes,Yes,6,Estimated - limited community evidence
+Acer,Aspire 5 A515-51G,2018,Consumer,15,25,Dedicated,8,256,SATA SSD,48,7,15.6,2.2,7,599,Yes,Yes,Yes,5,Estimated - limited community evidence
+Acer,Swift 3 SF314-54,2019,Ultraportable,15,0,Integrated,8,256,PCIe NVMe SSD,48,9,14,1.45,6,649,Yes,Yes,Yes,5,Estimated - community evidence
+Acer,Nitro 5 AN515-54,2019,Gaming,45,50,Dedicated,8,512,PCIe NVMe SSD,57,5.5,15.6,2.3,7,749,Yes,Yes,Yes,5,Estimated - mixed community sources
+Acer,Chromebook 14 CB3-431,2016,Chromebook,6,0,Integrated,4,32,eMMC,45,10,14,1.55,5,299,No,No,No,5,Estimated - limited community evidence
+Toshiba,Portege R30-A Base,2014,Business,37,0,Integrated,4,500,HDD,66,8,13.3,1.5,9,1099,Yes,Yes,Yes,9,Estimated - community evidence
+Toshiba,Tecra Z40-C Base,2016,Business,15,0,Integrated,8,256,SATA SSD,60,11,14,1.47,8,1149,Yes,Yes,Yes,7,Estimated - community evidence
+Fujitsu,Lifebook U745 Base,2015,Business,15,0,Integrated,8,256,SATA SSD,45,8.5,14,1.55,9,1249,Yes,Yes,Yes,8,Estimated - community evidence
+Panasonic,Toughbook CF-19 Base,2012,Rugged,35,0,Integrated,4,500,HDD,68,10,10.1,2.3,10,3299,Yes,Yes,Yes,14,RuggedPCReview Forums (verified)
+Panasonic,Toughbook CF-31 Base,2014,Rugged,15,0,Integrated,8,500,HDD,91,14,13.1,3.72,10,3499,Yes,Yes,Yes,12,Estimated - community evidence
+Samsung,Series 9 NP900X3C,2012,Premium,17,0,Integrated,4,128,SATA SSD,44,7,13.3,1.16,4,1299,No,No,Yes,9,Estimated - community evidence
+Samsung,Notebook 9 Spin,2016,Convertible,15,0,Integrated,8,256,SATA SSD,45,7.5,13.3,1.3,5,1199,No,No,Yes,6,Estimated - limited community evidence
+Samsung,Galaxy Book Flex 15,2020,Convertible,15,25,Dedicated,12,512,PCIe NVMe SSD,69.7,12,15.6,1.52,5,1399,No,No,Yes,4,Estimated - limited community evidence
+Lenovo,ThinkPad Yoga 12 Base,2015,Convertible,15,0,Integrated,8,256,SATA SSD,47,7.5,12.5,1.58,7,1099,Yes,No,Yes,8,Estimated - community evidence
+Lenovo,ThinkPad Yoga 260 Base,2016,Convertible,15,0,Integrated,8,256,PCIe NVMe SSD,44,8,12.5,1.3,7,1149,Yes,Yes,Yes,7,Estimated - community evidence
+Lenovo,ThinkPad Yoga 370 Base,2017,Convertible,15,0,Integrated,8,256,PCIe NVMe SSD,51,9,13.3,1.37,7,1249,Yes,Yes,Yes,7,Estimated - community evidence
+Lenovo,ThinkPad X380 Yoga,2018,Convertible,15,0,Integrated,8,256,PCIe NVMe SSD,51,10,13.3,1.4,6,1349,Yes,No,Yes,6,Estimated - community evidence
+Lenovo,ThinkPad X390 Yoga,2019,Convertible,15,0,Integrated,8,256,PCIe NVMe SSD,50,11,13.3,1.32,6,1429,Yes,No,Yes,5,Estimated - community evidence
+Lenovo,ThinkPad X1 Yoga Gen 1,2016,Premium,15,0,Integrated,8,256,SATA SSD,52,8.5,14,1.36,5,1449,Yes,No,Yes,7,Estimated - community evidence
+Lenovo,ThinkPad X1 Yoga Gen 2,2017,Premium,15,0,Integrated,8,256,PCIe NVMe SSD,56,10,14,1.42,5,1499,Yes,No,Yes,6,Estimated - community evidence
+Lenovo,ThinkPad X1 Yoga Gen 3,2018,Premium,15,0,Integrated,8,256,PCIe NVMe SSD,54,11,14,1.4,5,1649,Yes,No,Yes,6,Estimated - community evidence
+Lenovo,ThinkPad X1 Yoga Gen 4,2019,Premium,15,0,Integrated,8,256,PCIe NVMe SSD,51,12,14,1.35,5,1599,Yes,No,Yes,5,Estimated - community evidence
+Lenovo,ThinkPad X1 Yoga Gen 5,2020,Premium,15,0,Integrated,8,256,PCIe NVMe SSD,51,11.5,14,1.35,5,1699,Yes,No,Yes,4,Estimated - community evidence
+Dell,Inspiron 15 (3521),2013,Business,17,0,Integrated,4,500,HDD,40,4.5,15.6,2.25,8,449,Yes,Yes,Yes,7,Estimated - limited community evidence
+Dell,Inspiron 15 (3542),2014,Business,15,0,Integrated,4,500,HDD,40,5,15.6,2.4,8,479,Yes,Yes,Yes,7,Estimated - limited community evidence
+Dell,Inspiron 15 (3558),2016,Business,15,0,Integrated,4,1000,HDD,40,5.5,15.6,2.24,8,499,Yes,Yes,Yes,6,Estimated - limited community evidence
+Dell,Inspiron 15 (3567),2017,Business,15,0,Integrated,4,1000,HDD,42,6,15.6,2.3,8,529,Yes,Yes,Yes,6,Estimated - limited community evidence
+Dell,Inspiron 15 (3583),2019,Business,15,0,Integrated,4,500,HDD,42,5,15.6,2.2,7,399,Yes,Yes,Yes,5,Estimated - limited community evidence
+Dell,G3 15 (3579),2018,Gaming,45,40,Dedicated,8,1000,HDD,56,5,15.6,2.53,7,749,Yes,Yes,Yes,5,Estimated - mixed community sources
+Dell,G5 15 (5587),2018,Gaming,45,60,Dedicated,8,128,Hybrid,56,4.5,15.6,2.61,7,949,Yes,Yes,Yes,5,Estimated - mixed community sources
+Dell,G7 15 (7588),2018,Premium,45,60,Dedicated,16,256,Hybrid,56,4,15.6,2.63,7,1199,Yes,Yes,Yes,5,Estimated - mixed community sources
+Dell,Vostro 14 (3458),2015,Business,15,0,Integrated,4,500,HDD,40,5.5,14,1.94,8,499,Yes,Yes,Yes,7,Estimated - limited community evidence
+Dell,Vostro 15 (3568),2017,Business,15,0,Integrated,4,500,HDD,40,6.5,15.6,2.18,8,649,Yes,Yes,Yes,6,Estimated - limited community evidence
+HP,ProBook 450 G1 Base,2013,Business,37,0,Integrated,4,500,HDD,47,5.5,15.6,2.4,9,699,Yes,Yes,Yes,9,Estimated - community evidence
+HP,ProBook 450 G2 Base,2014,Business,15,0,Integrated,4,500,HDD,44,6,15.6,2.15,9,729,Yes,Yes,Yes,8,Estimated - community evidence
+HP,ProBook 450 G3 Base,2016,Business,15,0,Integrated,4,500,HDD,44,6.5,15.6,2.07,8,749,Yes,Yes,Yes,7,Estimated - community evidence
+HP,ProBook 450 G4 Base,2017,Business,15,0,Integrated,8,500,HDD,48,7.5,15.6,2.04,8,799,Yes,Yes,Yes,6,Estimated - community evidence
+HP,ProBook 450 G5 Base,2018,Business,15,0,Integrated,8,256,SATA SSD,48,9,15.6,2.1,8,849,Yes,Yes,Yes,6,Estimated - community evidence
+HP,ProBook 450 G6 Base,2019,Business,15,0,Integrated,8,256,PCIe NVMe SSD,45,9.5,15.6,2,8,899,Yes,Yes,Yes,5,Estimated - community evidence
+HP,ProBook 450 G7 Base,2020,Business,15,0,Integrated,8,256,PCIe NVMe SSD,45,9,15.6,2,8,949,Yes,Yes,Yes,4,Estimated - community evidence
+HP,Pavilion 15-p000 Base,2014,Consumer,15,0,Integrated,4,750,HDD,41,4,15.6,2.27,6,499,Yes,Yes,Yes,6,Estimated - limited community evidence
+HP,Pavilion 15-ab000 Base,2015,Consumer,15,0,Integrated,6,1000,HDD,41,5,15.6,2.2,6,599,Yes,Yes,Yes,6,Estimated - limited community evidence
+HP,Pavilion 15-cc000 Base,2017,Consumer,15,0,Integrated,8,1000,HDD,41,6,15.6,2.02,6,679,Yes,Yes,Yes,5,Estimated - limited community evidence
+HP,Pavilion 15-cs000 Base,2018,Consumer,15,0,Integrated,8,256,PCIe NVMe SSD,41,7,15.6,1.85,6,749,Yes,Yes,Yes,5,Estimated - limited community evidence
+HP,Envy 13-ad000 Base,2017,Premium,15,0,Integrated,8,256,PCIe NVMe SSD,53,10,13.3,1.23,4,899,Yes,No,Yes,6,Estimated - community evidence
+HP,Envy 13-ah000 Base,2018,Premium,15,0,Integrated,8,256,PCIe NVMe SSD,53.2,11,13.3,1.21,4,949,Yes,No,Yes,5,Estimated - community evidence
+HP,Envy 13-aq000 Base,2019,Premium,15,0,Integrated,8,256,PCIe NVMe SSD,53,10.5,13.3,1.17,4,999,Yes,No,Yes,5,Estimated - community evidence
+HP,Spectre x360 13-4000,2015,Premium,15,0,Integrated,8,256,SATA SSD,56,9,13.3,1.45,4,1299,No,No,Yes,7,Estimated - community evidence
+HP,Spectre x360 13-w000,2016,Premium,15,0,Integrated,8,256,PCIe NVMe SSD,57.8,11,13.3,1.29,3,1199,No,No,Yes,7,Estimated - community evidence
+HP,Spectre x360 13-ae000,2017,Premium,15,0,Integrated,8,256,PCIe NVMe SSD,60,12,13.3,1.26,3,1249,No,No,Yes,6,Estimated - community evidence
+HP,Spectre x360 13-ap000,2018,Premium,15,0,Integrated,8,256,PCIe NVMe SSD,61,12.5,13.3,1.32,3,1349,No,No,Yes,5,Estimated - community evidence
+HP,Spectre x360 13-aw000,2019,Premium,15,0,Integrated,8,512,PCIe NVMe SSD,60,11.5,13.3,1.27,4,1299,No,No,Yes,5,Estimated - community evidence
+Apple,MacBook Air 13-Inch (Early 2020) Core i3,2020,Ultraportable,9,0,Integrated,8,256,PCIe NVMe SSD,49.9,10,13.3,1.29,3,999,No,No,No,4,Estimated - community evidence
+Apple,MacBook Air 13-Inch (Early 2020) Core i5,2020,Ultraportable,10,0,Integrated,8,512,PCIe NVMe SSD,49.9,9.5,13.3,1.29,3,1299,No,No,No,4,Estimated - community evidence
+Apple,MacBook Pro 13-Inch (Two Thunderbolt 2020),2020,Premium,15,0,Integrated,8,256,PCIe NVMe SSD,58.2,10,13.3,1.4,3,1299,No,No,No,6,MacRumors (verified)
+Apple,MacBook Pro 13-Inch (Four Thunderbolt 2020),2020,Premium,28,0,Integrated,16,512,PCIe NVMe SSD,58,9.5,13.3,1.4,3,1799,No,No,No,6,MacRumors (verified)
